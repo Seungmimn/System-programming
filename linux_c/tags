@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+main	copy.c	/^int main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	copy1.c	/^int main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	fcopy.c	/^int main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	strcat.c	/^int main(char* arg, char* argv[])$/;"	f	typeref:typename:int
+main	strcat_.c	/^int main(char* arg, char* argv[])$/;"	f	typeref:typename:int
+my_strcat	strcat.c	/^char* my_strcat(char* pd, const char* ps)$/;"	f	typeref:typename:char *
+my_strcat	strcat_.c	/^char* my_strcat(char* pd, const char* ps)$/;"	f	typeref:typename:char *
